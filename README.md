@@ -1,16 +1,275 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AntSpace14/AntSpace14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀Antariksh Sarmah | Data Analyst
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+ETL+%26+Automation;Storytelling+with+Numbers;Let+the+Data+do+the+Talking;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+<!-- LANGUAGES & TOOLS -->
+<h1 align="center">🛠 Language & Tools</h1>
+
+<br/>
+
+<!-- DATA & ANALYTICS -->
+<div align="center">
+
+### ⚙️📊 ETL & Data Analytics
+
+<p>
+<a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+         width="50" height="50" alt="Python"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://numpy.org/images/logo.svg" width="55" height="55" alt="NumPy"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="65" height="65" alt="Pandas"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.alteryx.com/" target="_blank" title="Alteryx">
+    <img src="https://cdn.simpleicons.org/alteryx/1F8BD6" width="65" height="65" alt="Alteryx"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" height="55" alt="Matplotlib"/>
+</a>
+  &nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="100" alt="Seaborn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://spark.apache.org/" target="_blank" title="Apache Spark">
+    <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="75" height="75" alt="Apache Spark"/>
+  </a>
+
+</p>
+
+</div>
+
+<br/>
+
+<!-- BI & VISUALIZATION -->
+<div align="center">
+
+### 📈 Business Intelligence & Visualization
+
+<p>
+ <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel">
+    <img src="https://img.icons8.com/fluency/512/microsoft-excel-2019.png" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60"/>
+</p>
+</div>
+
+<br/>
+
+<!-- DATABASES -->
+<div align="center">
+
+### ☁🗄 Cloud & Databases
+
+<p>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://img.icons8.com/color/96/mysql-logo.png" width="80" height="80" alt="MySQL" style="display:block; border:0; vertical-align:middle;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.snowflake.com/" target="_blank" title="Snowflake">
+    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="65" height="65"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+
+<!-- FOOTER -->
+<div align="center">
+  <p style="font-size:18px; font-weight:bold; color:#6366F1; margin-top:10px;">
+    💡 Hover over an icon to view the tool name
+  </p>
+</div>
+
+
+<hr/>
+
+
+# 📊 GitHub Performance Metrics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntSpace14&theme=radical" width="85%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntSpace14&theme=radical" width="85%" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntSpace14&theme=radical" width="85%" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntSpace14&theme=radical&utcOffset=5.5" width="85%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntSpace14&theme=radical" width="85%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Antariksh Sarmah))
+    Data Analysis
+      Exploratory Data Analysis (EDA)
+      Statistical Analysis
+      Data Cleaning
+      Data Visualization
+    Tools & Libraries
+      Python
+      Pandas
+      NumPy
+      Matplotlib
+      Seaborn
+      SQL
+      Excel
+    Big Data & Cloud
+      Spark
+      AWS
+      Google Cloud
+      Data Pipelines
+    Career Goals
+      Data Analyst
+      Business Analyst
+      BI Developer
+      Analytics Consultant
+
+%%{init: {'theme':'base', 'themeVariables': { 
+  'primaryColor': '#D7DAE5',
+  'primaryTextColor': '#2C3E50',
+  'primaryBorderColor': '#8EAF9D',
+  'lineColor': '#A6D8D4',
+  'secondaryColor': '#B9CDDA',
+  'secondaryTextColor': '#2C3E50',
+  'secondaryBorderColor': '#8EAF9D',
+  'tertiaryColor': '#A6D8D4',
+  'tertiaryTextColor': '#2C3E50',
+  'tertiaryBorderColor': '#8EAF9D',
+  'nodeBorder': '#8EAF9D',
+  'nodeTextColor': '#2C3E50'
+}}}%%
+```
+
+</div>
+
+<br/>
+<br/>
+
+---
+# 💼 Professional Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 🏢 **Data Analyst @ AVT Pvt Ltd**  
+**Sep 2024 – Oct 2025**
+
+- Performed ETL & automation workflows using SQL, Python & Alteryx  
+- Designed dashboards using Power BI to improve data visibility  
+- Cleaned, transformed, and validated 50K+ records across systems  
+- Automated Excel & reporting workflows (30% reduction in manual work)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💼 Open to Opportunities
+
+<div align="center">
+
+### 🎯 **Actively Looking For Roles In**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/graph.png" width="64"/>
+<br/><b>Data Analyst</b>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/database.png" width="64"/>
+<br/><b>Data Engineer</b>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="64"/>
+<br/><b>Business Analyst</b>
+</td>
+</tr>
+</table>
+
+### 📬 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antariksh-s-4a393a251)  
+[![Email Me](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=spacer4nger05@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake.svg">
+</picture>
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+**✨ "Do or Do not, there is no try." – Yoda**
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+
+</div>
