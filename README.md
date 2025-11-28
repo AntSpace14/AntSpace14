@@ -249,7 +249,7 @@ mindmap
 <tr>
 <td>
 
-### 🏢 **Data Analyst @ AVT Pvt Ltd**  
+**Data Analyst @ AVT Pvt Ltd**  
 **Sep 2024 – Oct 2025**
 
 - Performed ETL & automation workflows using SQL, Python & Alteryx  
