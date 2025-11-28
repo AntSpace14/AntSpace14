@@ -21,7 +21,7 @@
 ### ⚙️📊 ETL & Data Analytics
 
 <p>
-<a href="https://www.python.org/" target="_blank" title="Python">
+<a href="https://www.python.org/" target="_blank" title="Python" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
          width="50" height="50" alt="Python"/>
   </a>
@@ -192,6 +192,55 @@ mindmap
 <br/>
 
 ---
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="85"/>
+<br/>
+<b>Oracle Cloud Infrastructure 2025</b>
+<br/>Certified AI Foundations Associate
+<br/><br/>
+<a href="https://drive.google.com/file/d/1Ap9UFZgzqvSS6hE2n_maXjdyDjjz3_ah/view?usp=sharing">View Certificate →</a>
+<br/><br/>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=15616F0246BFDBF1E6E23B58928F997D437C93D6D0C37BCF711BBDD5F2EA0D46">Verify through Oracle Certview →</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" width="64"/>
+<br/>
+<b>MongoDB Certified Associate Data Modeler</b>
+<br/><br/>
+<a href="https://drive.google.com/file/d/15m4oVTnsl_W_VdnRznyY9ruSp3DDcW-a/view?usp=sharing">View Certificate →</a>
+    <br/><br/>
+<a href="https://www.credly.com/go/09L89M2P">Verify through Credly →</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="64" height="64"/>
+<br/>
+<b>GitHub Copilot</b>
+<br/>Certification Program
+<br/><br/>
+<a href="https://drive.google.com/file/d/1JN66PZdAs7tN6nSWMBUvpWCo2AJJM8Rp/view?usp=sharing">View Certificate →</a>
+    <br/><br/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/ANTARIKSHSARMAH-6871/E714D5F7AC8D7DA2?sharingId=A9660970C4CB7212">Verify through Microsoft Learn →</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+
+---
+
+<br/>
+
 # 💼 Professional Experience
 
 <div align="center">
@@ -253,11 +302,7 @@ mindmap
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake.svg">
-</picture>
+![snake gif](https://github.com/AntSpace14/AntSpace14/blob/output/github-snake-dark.svg)
 
 </div>
 
