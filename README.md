@@ -215,7 +215,7 @@ mindmap
 <br/>
 <b>MongoDB Certified Associate Data Modeler</b>
 <br/><br/>
-<a href="https://drive.google.com/file/d/15m4oVTnsl_W_VdnRznyY9ruSp3DDcW-a/view?usp=sharing">View Certificate →</a>
+<a href="https://drive.google.com/file/d/1AXAbYvdYhvmxT7lzqLWdpX5ZzmjHfFmR/view?usp=sharing">View Certificate →</a>
     <br/><br/>
 <a href="https://www.credly.com/go/09L89M2P">Verify through Credly →</a>
 </td>
