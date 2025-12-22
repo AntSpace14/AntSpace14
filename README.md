@@ -211,7 +211,7 @@ mindmap
 </td>
 
 <td align="center" width="33%">
-<img src="https://images.credly.com/size/680x680/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" width="85"/>
+<img src="https://github.com/AntSpace14/AntSpace14/blob/c24b1de1ac4c05deb3a216c5197463c82d9328b1/image%20(1).png" width="85"/>
 <br/>
 <b>Alteryx Foundational Micro-Credential</b>
 <br/><br/>
