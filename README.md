@@ -275,7 +275,6 @@ mindmap
 <td>
 
 **Data Analyst @ AVT Pvt Ltd**  
-**Mar 2025 – Sep 2025**
 
 - Performed ETL & automation workflows using SQL, Python & Alteryx  
 - Designed dashboards using Power BI to improve data visibility  
