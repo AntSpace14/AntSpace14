@@ -274,7 +274,7 @@ mindmap
 <tr>
 <td>
 
-**Data Analyst @ AVT Pvt Ltd**  
+**Data Analyst @ ALA Pvt Ltd**  
 
 - Performed ETL & automation workflows using SQL, Python & Alteryx  
 - Designed dashboards using Power BI to improve data visibility  
