@@ -275,6 +275,7 @@ mindmap
 <td>
 
 **Data Analyst @ ALA Pvt Ltd**  
+***Aug 2025 - Jan 2026***
 
 - Performed ETL & automation workflows using SQL, Python & Alteryx  
 - Designed dashboards using Power BI to improve data visibility  
