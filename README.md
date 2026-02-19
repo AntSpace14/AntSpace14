@@ -166,7 +166,6 @@ mindmap
       Data Pipelines
     Career Goals
       Data Analyst
-      Business Analyst
       BI Developer
       Analytics Consultant
 
@@ -308,10 +307,6 @@ mindmap
 <br/><b>Data Engineer</b>
 </td>
 
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="64"/>
-<br/><b>Business Analyst</b>
-</td>
 </tr>
 </table>
 
