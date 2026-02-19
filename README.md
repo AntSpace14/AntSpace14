@@ -274,7 +274,7 @@ mindmap
 <tr>
 <td>
 
-**Data Analyst @ ALA Pvt Ltd**  
+**Junior Data Analyst @ ALA Pvt Ltd**  
 ***Aug 2025 - Jan 2026***
 
 - Performed ETL & automation workflows using SQL, Python & Alteryx  
