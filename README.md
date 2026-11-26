@@ -18,37 +18,24 @@
 <!-- DATA & ANALYTICS -->
 <div align="center">
 
-### ⚙️📊 ETL & Data Analytics
+### ⚙️📊 Data Analytics
 
 <p>
-<a href="https://www.python.org/" target="_blank" title="Python" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
-         width="50" height="50" alt="Python"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://numpy.org/images/logo.svg" width="55" height="55" alt="NumPy"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="65" height="65" alt="Pandas"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.alteryx.com/" target="_blank" title="Alteryx">
-    <img src="https://github.com/AntSpace14/AntSpace14/blob/460fd96b83a42f05bbc883b9ea0e08a0e9cbccc5/pngegg.png" width="45" height="45" alt="Alteryx"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" height="55" alt="Matplotlib"/>
-</a>
-  &nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="110" height="110" alt="Seaborn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://spark.apache.org/" target="_blank" title="Apache Spark">
-    <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="85" height="85" alt="Apache Spark"/>
-  </a>
+<a href="https://www.python.org/" target="_blank" title="Python" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" height="80" alt="Python"/></a>
+&nbsp;&nbsp;
+<a href="https://numpy.org/" target="_blank" title="NumPy"><img src="https://numpy.org/images/logo.svg" width="100" height="80" alt="NumPy"/></a>
+&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="100" height="80" alt="Pandas"/></a>
+&nbsp;&nbsp;
+<a href="https://www.getdbt.com/" target="_blank" title="dbt" ><img src="dbt-logo-w.png" width="150" height="80" alt="dbt"/></a>
+&nbsp;&nbsp;
+<a href="https://www.alteryx.com/" target="_blank" title="Alteryx"><img src="https://github.com/AntSpace14/AntSpace14/blob/460fd96b83a42f05bbc883b9ea0e08a0e9cbccc5/pngegg.png" width="75" height="80" alt="Alteryx"/></a>
+&nbsp;&nbsp;
+<a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="100" height="80" alt="Matplotlib"/></a>
+&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="110" height="80" alt="Seaborn"/></a>
+&nbsp;&nbsp;
+<a href="https://spark.apache.org/" target="_blank" title="Apache Spark"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="130" height="80" alt="Apache Spark"/></a>
 
 </p>
 
@@ -62,12 +49,9 @@
 ### 📈 Business Intelligence & Visualization
 
 <p>
- <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel">
-    <img src="https://img.icons8.com/fluency/512/microsoft-excel-2019.png" width="60" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60"/>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="https://img.icons8.com/fluency/512/microsoft-excel-2019.png" width="80" height="80"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="80" height="80"/></a>
 </p>
 </div>
 
@@ -79,17 +63,11 @@
 ### ☁🗄 Cloud & Databases
 
 <p>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://img.icons8.com/color/96/mysql-logo.png" width="80" height="80" alt="MySQL" style="display:block; border:0; vertical-align:middle;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.snowflake.com/" target="_blank" title="Snowflake">
-    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
-    <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="65" height="65"/>
-  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/color/96/mysql-logo.png" width="100" height="80" alt="MySQL" style="display:block; border:0; vertical-align:middle;"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.snowflake.com/" target="_blank" title="Snowflake"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="100" height="80" alt="Snowflake"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://img.icons8.com/color/512/amazon-web-services.png" width="110" height="80"/></a>
 </p>
 
 </div>
@@ -158,10 +136,12 @@ mindmap
       Matplotlib
       Seaborn
       SQL
+      DBT
       Excel
     Big Data & Cloud
       Spark
       AWS
+      Snowflake
       Google Cloud
       Data Pipelines
     Career Goals
@@ -273,8 +253,8 @@ mindmap
 <tr>
 <td>
 
-**Junior Data Analyst @ ALA Pvt Ltd**  
-***Aug 2025 - Jan 2026***
+**Junior Data Analyst @ AWA SOLUTIONS**  
+***Nov 2025 - Nov 2026***
 
 - Performed ETL & automation workflows using SQL, Python & Alteryx  
 - Designed dashboards using Power BI to improve data visibility  
