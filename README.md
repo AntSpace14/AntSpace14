@@ -175,33 +175,6 @@ mindmap
 <div align="center">
 
 <table>
-<tr>
-<td align="center">
-<br/>
-<img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="100"/>
-<br/>
-<b>Alteryx Designer Core Certification</b>
-<br/><br/>
-<a href="https://drive.google.com/file/d/1AA3e94CMHWPhfuac8Sp_ns-BevF-OmI6/view?usp=sharing">View Certificate →</a>
-<br/><br/>
-<a href="https://www.credly.com/earner/earned/badge/4daf4424-d826-41e4-9881-92ad7357b7e7">Verify through Credly →</a>
-<br/>&nbsp;
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<br/>
-<img src="alteryxcertf.png" width="100"/>
-<br/>
-<b>Alteryx Foundational Micro-Credential</b>
-<br/><br/>
-<a href="https://drive.google.com/file/d/1gL7qofINBfTGMIz-LYqnsSL2jRrGRCQm/view?usp=sharing">View Certificate →</a>
-<br/><br/>
-<a href="https://www.credly.com/earner/earned/badge/b5b154cf-2d5b-46c4-8abf-22b45d1f99f1">Verify through Credly →</a>
-<br/>&nbsp;
-</td>
-</tr>
 
 <tr>
 <td align="center">
@@ -216,7 +189,50 @@ mindmap
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/ANTARIKSHSARMAH-6871/E714D5F7AC8D7DA2?sharingId=A9660970C4CB7212">Verify through Microsoft Learn →</a>
 <br/>&nbsp;
 </td>
+
+
+<td align="center">
+<br/>
+<img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" width="100"/>
+<br/>&nbsp;
+<b>MongoDB Certified <br/> Associate Data Modeler</b>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1AXAbYvdYhvmxT7lzqLWdpX5ZzmjHfFmR/view?usp=sharing">View Certificate →</a>
+    <br/><br/>
+<a href="https://www.credly.com/go/09L89M2P">Verify through Credly →</a>
+<br/>&nbsp;
+</td>
 </tr>
+
+
+<tr>
+<td align="center">
+<br/>
+<img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="100"/>
+<br/>
+<b>Alteryx Designer Core Certification</b>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1AA3e94CMHWPhfuac8Sp_ns-BevF-OmI6/view?usp=sharing">View Certificate →</a>
+<br/><br/>
+<a href="https://www.credly.com/earner/earned/badge/4daf4424-d826-41e4-9881-92ad7357b7e7">Verify through Credly →</a>
+<br/>&nbsp;
+</td>
+
+
+
+<td align="center">
+<br/>
+<img src="alteryxcertf.png" width="100"/>
+<br/>
+<b>Alteryx Foundational Micro-Credential</b>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1gL7qofINBfTGMIz-LYqnsSL2jRrGRCQm/view?usp=sharing">View Certificate →</a>
+<br/><br/>
+<a href="https://www.credly.com/earner/earned/badge/b5b154cf-2d5b-46c4-8abf-22b45d1f99f1">Verify through Credly →</a>
+<br/>&nbsp;
+</td>
+</tr>
+
 
 <tr>
 <td align="center">
@@ -228,20 +244,6 @@ mindmap
 <a href="https://drive.google.com/file/d/1Ap9UFZgzqvSS6hE2n_maXjdyDjjz3_ah/view?usp=sharing">View Certificate →</a>
 <br/><br/>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=15616F0246BFDBF1E6E23B58928F997D437C93D6D0C37BCF711BBDD5F2EA0D46">Verify through Oracle Certview →</a>
-<br/>&nbsp;
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<br/>
-<img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" width="80"/>
-<br/>&nbsp;
-<b>MongoDB Certified <br/> Associate Data Modeler</b>
-<br/><br/>
-<a href="https://drive.google.com/file/d/1AXAbYvdYhvmxT7lzqLWdpX5ZzmjHfFmR/view?usp=sharing">View Certificate →</a>
-    <br/><br/>
-<a href="https://www.credly.com/go/09L89M2P">Verify through Credly →</a>
 <br/>&nbsp;
 </td>
 </tr>
