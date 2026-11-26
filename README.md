@@ -21,19 +21,19 @@
 ### ⚙️📊 Data Analytics
 
 <p>
-<a href="https://www.python.org/" target="_blank" title="Python" ><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" height="80" alt="Python"/></a>
+<a href="https://www.python.org/" target="_blank" title="Python" ><img src="python.png" width="80" height="80" alt="Python"/></a>
 &nbsp;&nbsp;
-<a href="https://numpy.org/" target="_blank" title="NumPy"><img src="https://numpy.org/images/logo.svg" width="100" height="80" alt="NumPy"/></a>
+<a href="https://numpy.org/" target="_blank" title="NumPy"><img src="numpy.png" width="80" height="80" alt="NumPy"/></a>
 &nbsp;&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="100" height="80" alt="Pandas"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="Pandas.png" width="100" height="80" alt="Pandas"/></a>
 &nbsp;&nbsp;
 <a href="https://www.getdbt.com/" target="_blank" title="dbt" ><img src="dbt-logo-w.png" width="150" height="80" alt="dbt"/></a>
 &nbsp;&nbsp;
-<a href="https://www.alteryx.com/" target="_blank" title="Alteryx"><img src="https://github.com/AntSpace14/AntSpace14/blob/460fd96b83a42f05bbc883b9ea0e08a0e9cbccc5/pngegg.png" width="75" height="80" alt="Alteryx"/></a>
+<a href="https://www.alteryx.com/" target="_blank" title="Alteryx"><img src="alteryx.png" width="75" height="70" alt="Alteryx"/></a>
 &nbsp;&nbsp;
 <a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="100" height="80" alt="Matplotlib"/></a>
 &nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="110" height="80" alt="Seaborn"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="Seaborn.png" width="120" height="90" alt="Seaborn"/></a>
 &nbsp;&nbsp;
 <a href="https://spark.apache.org/" target="_blank" title="Apache Spark"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="130" height="80" alt="Apache Spark"/></a>
 
@@ -190,7 +190,7 @@ mindmap
 </td>
 
 <td align="center" width="33%">
-<img src="https://github.com/AntSpace14/AntSpace14/blob/c24b1de1ac4c05deb3a216c5197463c82d9328b1/image%20(1).png" width="85"/>
+<img src="alteryxcertf.png" width="85"/>
 <br/>
 <b>Alteryx Foundational Micro-Credential</b>
 <br/><br/>
