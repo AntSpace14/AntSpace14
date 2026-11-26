@@ -31,7 +31,7 @@
 &nbsp;&nbsp;
 <a href="https://www.alteryx.com/" target="_blank" title="Alteryx"><img src="alteryx.png" width="50" height="50" alt="Alteryx"/></a>
 &nbsp;&nbsp;
-<a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="Matplotlib.png" width="80" height="90" alt="Matplotlib"/></a>
+<a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="MATPLOTLIB.png" width="60" height="60" alt="Matplotlib"/></a>
 &nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="Seaborn.png" width="60" height="60" alt="Seaborn"/></a>
 
@@ -49,7 +49,7 @@
 <p>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="Excel.png" width="100" height="100"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="POWERBI.png" width="60" height="60"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="POWERBI.png" width="65" height="65"/></a>
 </p>
 </div>
 
