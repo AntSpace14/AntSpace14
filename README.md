@@ -33,7 +33,7 @@
 &nbsp;&nbsp;
 <a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="Matplotlib.png" width="80" height="90" alt="Matplotlib"/></a>
 &nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="Seaborn.png" width="120" height="90" alt="Seaborn"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="Seaborn.png" width="80" height="80" alt="Seaborn"/></a>
 
 </p>
 
@@ -47,9 +47,9 @@
 ### 📈 Business Intelligence & Visualization
 
 <p>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="https://img.icons8.com/fluency/512/microsoft-excel-2019.png" width="80" height="80"/></a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="Excel.png" width="90" height="90"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="80" height="80"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="POWERBI.png" width="55" height="55"/></a>
 </p>
 </div>
 
@@ -61,11 +61,11 @@
 ### ☁🗄 Cloud & Databases
 
 <p>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/color/96/mysql-logo.png" width="100" height="80" alt="MySQL" style="display:block; border:0; vertical-align:middle;"/></a>
+<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="Mysql.png" width="100" height="80" alt="MySQL" style="display:block; border:0; vertical-align:middle;"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.snowflake.com/" target="_blank" title="Snowflake"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="100" height="80" alt="Snowflake"/></a>
+<a href="https://www.snowflake.com/" target="_blank" title="Snowflake"><img src="Snowflake.png" width="70" height="70" alt="Snowflake"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://img.icons8.com/color/512/amazon-web-services.png" width="110" height="80"/></a>
+<a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="AWS.png" width="80" height="80"/></a>
 </p>
 
 </div>
@@ -137,7 +137,6 @@ mindmap
       DBT
       Excel
     Big Data & Cloud
-      Spark
       AWS
       Snowflake
       Google Cloud
