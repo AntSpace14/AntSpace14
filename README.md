@@ -21,19 +21,19 @@
 ### ⚙️📊 Data Analytics
 
 <p>
-<a href="https://www.python.org/" target="_blank" title="Python" ><img src="python.png" width="80" height="80" alt="Python"/></a>
+<a href="https://www.python.org/" target="_blank" title="Python" ><img src="python.png" width="60" height="60" alt="Python"/></a>
 &nbsp;&nbsp;
-<a href="https://numpy.org/" target="_blank" title="NumPy"><img src="numpy.png" width="80" height="80" alt="NumPy"/></a>
+<a href="https://numpy.org/" target="_blank" title="NumPy"><img src="numpy.png" width="60" height="60" alt="NumPy"/></a>
 &nbsp;&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="Pandas.png" width="100" height="80" alt="Pandas"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="Pandas.png" width="80" height="60" alt="Pandas"/></a>
 &nbsp;&nbsp;
-<a href="https://www.getdbt.com/" target="_blank" title="dbt" ><img src="dbt-logo-w.png" width="150" height="80" alt="dbt"/></a>
+<a href="https://www.getdbt.com/" target="_blank" title="dbt" ><img src="dbt-logo-w.png" width="120" height="100" alt="dbt"/></a>
 &nbsp;&nbsp;
-<a href="https://www.alteryx.com/" target="_blank" title="Alteryx"><img src="alteryx.png" width="75" height="70" alt="Alteryx"/></a>
+<a href="https://www.alteryx.com/" target="_blank" title="Alteryx"><img src="alteryx.png" width="50" height="50" alt="Alteryx"/></a>
 &nbsp;&nbsp;
 <a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="Matplotlib.png" width="80" height="90" alt="Matplotlib"/></a>
 &nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="Seaborn.png" width="80" height="80" alt="Seaborn"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="Seaborn.png" width="60" height="60" alt="Seaborn"/></a>
 
 </p>
 
@@ -45,11 +45,11 @@
 <div align="center">
 
 ### 📈 Business Intelligence & Visualization
-
+<br/>
 <p>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="Excel.png" width="90" height="90"/></a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel"><img src="Excel.png" width="100" height="100"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="POWERBI.png" width="55" height="55"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI"><img src="POWERBI.png" width="60" height="60"/></a>
 </p>
 </div>
 
@@ -59,7 +59,7 @@
 <div align="center">
 
 ### ☁🗄 Cloud & Databases
-
+</br>
 <p>
 <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="Mysql.png" width="100" height="80" alt="MySQL" style="display:block; border:0; vertical-align:middle;"/></a>
 &nbsp;&nbsp;&nbsp;
@@ -176,28 +176,37 @@ mindmap
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="85"/>
+<td align="center">
+<br/>
+<img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="100"/>
 <br/>
 <b>Alteryx Designer Core Certification</b>
 <br/><br/>
 <a href="https://drive.google.com/file/d/1AA3e94CMHWPhfuac8Sp_ns-BevF-OmI6/view?usp=sharing">View Certificate →</a>
 <br/><br/>
 <a href="https://www.credly.com/earner/earned/badge/4daf4424-d826-41e4-9881-92ad7357b7e7">Verify through Credly →</a>
+<br/>&nbsp;
 </td>
+</tr>
 
-<td align="center" width="33%">
-<img src="alteryxcertf.png" width="85"/>
+<tr>
+<td align="center">
+<br/>
+<img src="alteryxcertf.png" width="100"/>
 <br/>
 <b>Alteryx Foundational Micro-Credential</b>
 <br/><br/>
 <a href="https://drive.google.com/file/d/1gL7qofINBfTGMIz-LYqnsSL2jRrGRCQm/view?usp=sharing">View Certificate →</a>
 <br/><br/>
 <a href="https://www.credly.com/earner/earned/badge/b5b154cf-2d5b-46c4-8abf-22b45d1f99f1">Verify through Credly →</a>
+<br/>&nbsp;
 </td>
+</tr>
 
-<td align="center" width="33%">
-<img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="64" height="64"/>
+<tr>
+<td align="center">
+<br/>
+<img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="100"/>
 <br/>
 <b>GitHub Copilot</b>
 <br/>Certification Program
@@ -205,12 +214,13 @@ mindmap
 <a href="https://drive.google.com/file/d/1JN66PZdAs7tN6nSWMBUvpWCo2AJJM8Rp/view?usp=sharing">View Certificate →</a>
     <br/><br/>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/ANTARIKSHSARMAH-6871/E714D5F7AC8D7DA2?sharingId=A9660970C4CB7212">Verify through Microsoft Learn →</a>
+<br/>&nbsp;
 </td>
 </tr>
 
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/oracle-logo.png" width="85"/>
+<td align="center">
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="100"/>
 <br/>
 <b>Oracle Cloud Infrastructure 2025</b>
 <br/>Certified AI Foundations Associate
@@ -218,16 +228,21 @@ mindmap
 <a href="https://drive.google.com/file/d/1Ap9UFZgzqvSS6hE2n_maXjdyDjjz3_ah/view?usp=sharing">View Certificate →</a>
 <br/><br/>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=15616F0246BFDBF1E6E23B58928F997D437C93D6D0C37BCF711BBDD5F2EA0D46">Verify through Oracle Certview →</a>
+<br/>&nbsp;
 </td>
-    
-<td align="center" width="33%">
-<img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" width="64"/>
+</tr>
+
+<tr>
+<td align="center">
 <br/>
-<b>MongoDB Certified Associate Data Modeler</b>
+<img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" width="80"/>
+<br/>&nbsp;
+<b>MongoDB Certified <br/> Associate Data Modeler</b>
 <br/><br/>
 <a href="https://drive.google.com/file/d/1AXAbYvdYhvmxT7lzqLWdpX5ZzmjHfFmR/view?usp=sharing">View Certificate →</a>
     <br/><br/>
 <a href="https://www.credly.com/go/09L89M2P">Verify through Credly →</a>
+<br/>&nbsp;
 </td>
 </tr>
     
