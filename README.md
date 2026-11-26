@@ -31,11 +31,9 @@
 &nbsp;&nbsp;
 <a href="https://www.alteryx.com/" target="_blank" title="Alteryx"><img src="alteryx.png" width="75" height="70" alt="Alteryx"/></a>
 &nbsp;&nbsp;
-<a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="100" height="80" alt="Matplotlib"/></a>
+<a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="Matplotlib.png" width="80" height="90" alt="Matplotlib"/></a>
 &nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="Seaborn.png" width="120" height="90" alt="Seaborn"/></a>
-&nbsp;&nbsp;
-<a href="https://spark.apache.org/" target="_blank" title="Apache Spark"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="130" height="80" alt="Apache Spark"/></a>
 
 </p>
 
